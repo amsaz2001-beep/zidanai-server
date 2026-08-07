@@ -1,0 +1,2648 @@
+{
+  "symbols": [
+    {
+      "symbol": "AALR",
+      "name": "General Co. for Land Reclamation Development & Reconstruction",
+      "sector": "Finance",
+      "yahoo": "AALR.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ABUK",
+      "name": "Abou Kir Fertilizers & Chemical Industries Co.",
+      "sector": "Process industries",
+      "yahoo": "ABUK.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX30",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ACAMD",
+      "name": "Arab Co. for Asset Management & Development",
+      "sector": "Finance",
+      "yahoo": "ACAMD.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ACAP",
+      "name": "A Capital Holding",
+      "sector": "Finance",
+      "yahoo": "ACAP.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ACGC",
+      "name": "Arab Cotton Ginning Co.",
+      "sector": "Process industries",
+      "yahoo": "ACGC.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX70",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ACRO",
+      "name": "Acrow Misr",
+      "sector": "Producer manufacturing",
+      "yahoo": "ACRO.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ACTF",
+      "name": "Act Financial",
+      "sector": "Finance",
+      "yahoo": "ACTF.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX70",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ADCI",
+      "name": "Arab Pharmaceuticals",
+      "sector": "Health technology",
+      "yahoo": "ADCI.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ADIB",
+      "name": "Abu Dhabi Islamic Bank-Egypt",
+      "sector": "Finance",
+      "yahoo": "ADIB.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX30",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ADPC",
+      "name": "Arab Dairy Products Co. Arab Dairy - Panda",
+      "sector": "Consumer non-durables",
+      "yahoo": "ADPC.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX70",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ADRI",
+      "name": "Arab Development & Real Estate Investment",
+      "sector": "Finance",
+      "yahoo": "ADRI.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "AFDI",
+      "name": "Alahly For Development & Investment",
+      "sector": "Finance",
+      "yahoo": "AFDI.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "AFMC",
+      "name": "Alexandria Flour Mills Co.",
+      "sector": "Retail trade",
+      "yahoo": "AFMC.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "AIDC",
+      "name": "Arabia for Investment and Development",
+      "sector": "Finance",
+      "yahoo": "AIDC.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "AIFI",
+      "name": "Atlas for Investment & Food Industries SAE",
+      "sector": "Process industries",
+      "yahoo": "AIFI.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "AIH",
+      "name": "Arabia Investments Holding SAE",
+      "sector": "Industrial services",
+      "yahoo": "AIH.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX70",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "AJWA",
+      "name": "Ajwa for Food Industries Co. Egypt",
+      "sector": "Consumer non-durables",
+      "yahoo": "AJWA.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ALCN",
+      "name": "Alexandria Containers & Goods",
+      "sector": "Transportation",
+      "yahoo": "ALCN.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX70",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ALUM",
+      "name": "Arab Aluminum Co. SAE",
+      "sector": "Non-energy minerals",
+      "yahoo": "ALUM.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "AMER",
+      "name": "Amer Group Holding",
+      "sector": "Finance",
+      "yahoo": "AMER.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX70",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "AMES",
+      "name": "Alexandria New Medical Center Co.",
+      "sector": "Health services",
+      "yahoo": "AMES.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "AMIA",
+      "name": "Arab Moltaqa Investments Company",
+      "sector": "Finance",
+      "yahoo": "AMIA.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "AMOC",
+      "name": "Alexandria Mineral Oils Co.",
+      "sector": "Energy minerals",
+      "yahoo": "AMOC.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX30",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "AMPI",
+      "name": "AL Moasher Pay for Electronic Payment and Collection (S.A.E)",
+      "sector": "Technology services",
+      "yahoo": "AMPI.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ANFI",
+      "name": "Alexandria National Co. for Financial Investment",
+      "sector": "Finance",
+      "yahoo": "ANFI.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "APSW",
+      "name": "Arab Polvara Spinning & Weaving Co.",
+      "sector": "Process industries",
+      "yahoo": "APSW.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ARAB",
+      "name": "Arab Developers Holding",
+      "sector": "Finance",
+      "yahoo": "ARAB.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ARCC",
+      "name": "Arabian Cement Company",
+      "sector": "Non-energy minerals",
+      "yahoo": "ARCC.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX30",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "AREH",
+      "name": "Egyptian Real Estate Group",
+      "sector": "Finance",
+      "yahoo": "AREH.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ARVA",
+      "name": "Arab Valves Co.",
+      "sector": "Producer manufacturing",
+      "yahoo": "ARVA.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ASCM",
+      "name": "ASEC Co. for Mining",
+      "sector": "Non-energy minerals",
+      "yahoo": "ASCM.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX70",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ASPI",
+      "name": "Aspire Capital Holding for Financial Investments",
+      "sector": "Finance",
+      "yahoo": "ASPI.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ATLC",
+      "name": "Al Tawfeek Leasing Company-A.T.LEASE",
+      "sector": "Finance",
+      "yahoo": "ATLC.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX70",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ATQA",
+      "name": "Misr National Steel",
+      "sector": "Non-energy minerals",
+      "yahoo": "ATQA.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "AXPH",
+      "name": "Alexandria Company for Pharmaceuticals and Chemical Industries",
+      "sector": "Health technology",
+      "yahoo": "AXPH.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX70",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "BIDI",
+      "name": "El Badr Investment and Development - BID",
+      "sector": "Process industries",
+      "yahoo": "BIDI.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "BIGP",
+      "name": "ElBarbary Investment Group",
+      "sector": "Distribution services",
+      "yahoo": "BIGP.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "BINV",
+      "name": "B Investments Holding SAE",
+      "sector": "Finance",
+      "yahoo": "BINV.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX70",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "BIOC",
+      "name": "GlaxoSmithKline S.A.E.",
+      "sector": "Health technology",
+      "yahoo": "BIOC.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX70",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "BONY",
+      "name": "Bonyan for Development and Trade",
+      "sector": "Finance",
+      "yahoo": "BONY.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "BTFH",
+      "name": "Beltone Holding",
+      "sector": "Finance",
+      "yahoo": "BTFH.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX30",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "CAED",
+      "name": "Cairo Educational Services",
+      "sector": "Consumer services",
+      "yahoo": "CAED.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "CANA",
+      "name": "Suez Canal Bank SAE",
+      "sector": "Finance",
+      "yahoo": "CANA.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX70",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "CCAP",
+      "name": "QALA For Financial Investments",
+      "sector": "Finance",
+      "yahoo": "CCAP.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX30",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "CCRS",
+      "name": "Gulf Canadian Real Estate Investment Co.",
+      "sector": "Finance",
+      "yahoo": "CCRS.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "CEFM",
+      "name": "Middle Egypt Flour Mills",
+      "sector": "Process industries",
+      "yahoo": "CEFM.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX70",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "CERA",
+      "name": "Arab Ceramic Co. - Ceramica Remas",
+      "sector": "Producer manufacturing",
+      "yahoo": "CERA.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "CFGH",
+      "name": "Concrete Fashion Group for Commercial and Industrial Investments S.A.E",
+      "sector": "Retail trade",
+      "yahoo": "CFGH.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "CICH",
+      "name": "CI Capital Holding for Financial Investments",
+      "sector": "Finance",
+      "yahoo": "CICH.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "CIEB",
+      "name": "Credit Agricole Egypt",
+      "sector": "Finance",
+      "yahoo": "CIEB.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX70",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "CIRA",
+      "name": "Cairo For Investment And Real Estate Developments -CIRA Education",
+      "sector": "Consumer services",
+      "yahoo": "CIRA.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "CLHO",
+      "name": "Cleopatra Hospital Company",
+      "sector": "Health services",
+      "yahoo": "CLHO.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX70",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "CNFN",
+      "name": "Contact Financial Holding SAE",
+      "sector": "Finance",
+      "yahoo": "CNFN.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "COMI",
+      "name": "Commercial International Bank - Egypt (CIB) S.A.E.",
+      "sector": "Finance",
+      "yahoo": "COMI.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX30",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "COPR",
+      "name": "Cooper for Commercial Investment & Real Estate Development",
+      "sector": "Finance",
+      "yahoo": "COPR.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "COSG",
+      "name": "Cairo Oils & Soap",
+      "sector": "Consumer non-durables",
+      "yahoo": "COSG.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "CPCI",
+      "name": "Kahira Pharmaceuticals & Chemical Industries Co.",
+      "sector": "Health technology",
+      "yahoo": "CPCI.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "CPME",
+      "name": "Catalyst Partners Middle East",
+      "sector": "Finance",
+      "yahoo": "CPME.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "CRST",
+      "name": "Creast Mark For Contracting And Real Estate Development",
+      "sector": "Industrial services",
+      "yahoo": "CRST.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "CSAG",
+      "name": "Canal Shipping Agencies Co.",
+      "sector": "Transportation",
+      "yahoo": "CSAG.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX70",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "DAPH",
+      "name": "Development & Engineering Consultants",
+      "sector": "Finance",
+      "yahoo": "DAPH.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "DCCC",
+      "name": "Damietta Container and Cargo Handling",
+      "sector": "Transportation",
+      "yahoo": "DCCC.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "DEIN",
+      "name": "Delta Insurance",
+      "sector": "Finance",
+      "yahoo": "DEIN.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "DGTZ",
+      "name": "Digitize for Investment And Technology",
+      "sector": "Technology services",
+      "yahoo": "DGTZ.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "DOMT",
+      "name": "Arabian Food Industries Co.",
+      "sector": "Consumer non-durables",
+      "yahoo": "DOMT.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX70",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "DSCW",
+      "name": "Dice Sports & Casual Wear Manufacturers SAE",
+      "sector": "Consumer non-durables",
+      "yahoo": "DSCW.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "DTPP",
+      "name": "Delta for Printing & Packaging",
+      "sector": "Process industries",
+      "yahoo": "DTPP.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "EALR",
+      "name": "El Arabia for Land Reclamation",
+      "sector": "Finance",
+      "yahoo": "EALR.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "EASB",
+      "name": "Egyptian Arabian Company for Securities Brokerage EAC",
+      "sector": "Finance",
+      "yahoo": "EASB.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "EAST",
+      "name": "Eastern Company",
+      "sector": "Consumer non-durables",
+      "yahoo": "EAST.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX30",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "EBSC",
+      "name": "Osool ESB Securities Brokerage",
+      "sector": "Finance",
+      "yahoo": "EBSC.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ECAP",
+      "name": "El Ezz Ceramics & Porcelain Co. (Gemma)",
+      "sector": "Producer manufacturing",
+      "yahoo": "ECAP.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "EDFM",
+      "name": "East Delta Flour Mills Co.",
+      "sector": "Consumer non-durables",
+      "yahoo": "EDFM.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "EEII",
+      "name": "El Arabia Engineering Industries",
+      "sector": "Electronic technology",
+      "yahoo": "EEII.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "EFIC",
+      "name": "Egyptian Financial & Industrial Co.",
+      "sector": "Process industries",
+      "yahoo": "EFIC.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "EFID",
+      "name": "Edita Food Industries SAE",
+      "sector": "Consumer non-durables",
+      "yahoo": "EFID.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX30",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "EFIH",
+      "name": "e-finance for Digital and Financial Investments S.A.E.",
+      "sector": "Technology services",
+      "yahoo": "EFIH.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX30",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "EGAL",
+      "name": "Egypt Aluminum",
+      "sector": "Non-energy minerals",
+      "yahoo": "EGAL.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX30",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "EGAS",
+      "name": "Egypt Gas Co.",
+      "sector": "Utilities",
+      "yahoo": "EGAS.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX70",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "EGBE",
+      "name": "Egyptian Gulf Bank",
+      "sector": "Finance",
+      "yahoo": "EGBE.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "EGCH",
+      "name": "Egyptian Chemical Industries",
+      "sector": "Process industries",
+      "yahoo": "EGCH.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX30",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "EGSA",
+      "name": "Egyptian Satellite Co.",
+      "sector": "Consumer services",
+      "yahoo": "EGSA.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "EGTS",
+      "name": "Egyptian for Tourism Resorts",
+      "sector": "Utilities",
+      "yahoo": "EGTS.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX70",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "EGWA",
+      "name": "General Warehouses of Egypt",
+      "sector": "Transportation",
+      "yahoo": "EGWA.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "EHDR",
+      "name": "Egyptians Housing Development & Reconstruction",
+      "sector": "Finance",
+      "yahoo": "EHDR.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "EIUD",
+      "name": "Egyptians For Investment & Urban Development",
+      "sector": "Finance",
+      "yahoo": "EIUD.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "EKHO",
+      "name": "Egypt Kuwait Holding Co. SAE",
+      "sector": "Finance",
+      "yahoo": "EKHO.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ELEC",
+      "name": "Electro Cable Egypt",
+      "sector": "Producer manufacturing",
+      "yahoo": "ELEC.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX70",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ELKA",
+      "name": "El Kahera Housing",
+      "sector": "Finance",
+      "yahoo": "ELKA.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ELNA",
+      "name": "El Nasr for Manufacturing Agricultural Crops",
+      "sector": "Process industries",
+      "yahoo": "ELNA.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ELSH",
+      "name": "El-Shams Housing & Development SA",
+      "sector": "Finance",
+      "yahoo": "ELSH.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ELWA",
+      "name": "Elwadi for International Investment & Development",
+      "sector": "Consumer services",
+      "yahoo": "ELWA.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "EMFD",
+      "name": "Emaar Misr for Development SAE",
+      "sector": "Finance",
+      "yahoo": "EMFD.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX30",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ENGC",
+      "name": "Industrial Engineering Co. for Construction & Development",
+      "sector": "Producer manufacturing",
+      "yahoo": "ENGC.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "EOSB",
+      "name": "El Orouba Securities Brokerage",
+      "sector": "Finance",
+      "yahoo": "EOSB.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "EPCO",
+      "name": "Egypt for Poultry Co.",
+      "sector": "Process industries",
+      "yahoo": "EPCO.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "EPPK",
+      "name": "El Ahram Co. for Printing & Packing",
+      "sector": "Process industries",
+      "yahoo": "EPPK.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ETEL",
+      "name": "Telecom Egypt",
+      "sector": "Communications",
+      "yahoo": "ETEL.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX30",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ETRS",
+      "name": "Egyptian Transport & Commercial Services Co. SAE",
+      "sector": "Transportation",
+      "yahoo": "ETRS.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "EXPA",
+      "name": "Export Development Bank of Egypt",
+      "sector": "Finance",
+      "yahoo": "EXPA.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX70",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "FAIT",
+      "name": "Faisal Islamic Bank of Egypt",
+      "sector": "Finance",
+      "yahoo": "FAIT.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX70",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "FIRE",
+      "name": "First Investment & Real Estate Development",
+      "sector": "Finance",
+      "yahoo": "FIRE.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "FNAR",
+      "name": "Al Fanar Contracting Construction Trade Import & Export Co.",
+      "sector": "Industrial services",
+      "yahoo": "FNAR.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "FTNS",
+      "name": "Fitness Prime",
+      "sector": "Technology services",
+      "yahoo": "FTNS.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "FWRY",
+      "name": "Fawry For Banking Technology And Electronic Payment",
+      "sector": "Technology services",
+      "yahoo": "FWRY.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX30",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "GBCO",
+      "name": "GB Corp",
+      "sector": "Distribution services",
+      "yahoo": "GBCO.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX30",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "GDWA",
+      "name": "Gadwa For Industrial Development",
+      "sector": "Producer manufacturing",
+      "yahoo": "GDWA.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "GGCC",
+      "name": "Giza General Contracting & Real Estate Investment",
+      "sector": "Industrial services",
+      "yahoo": "GGCC.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "GGRN",
+      "name": "Gogreen for Agricultural Investment and Development Company",
+      "sector": "Commercial services",
+      "yahoo": "GGRN.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "GIHD",
+      "name": "Gharbia Islamic Housing Development",
+      "sector": "Consumer durables",
+      "yahoo": "GIHD.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "GMCI",
+      "name": "GMC Group for Industrial Commercial & Financial Investments",
+      "sector": "Distribution services",
+      "yahoo": "GMCI.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "GOCO",
+      "name": "Golden Coast Co.",
+      "sector": "Consumer services",
+      "yahoo": "GOCO.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "GPPL",
+      "name": "Golden Pyramids Plaza",
+      "sector": "Finance",
+      "yahoo": "GPPL.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "GRCA",
+      "name": "Grand Investment Capital",
+      "sector": "Finance",
+      "yahoo": "GRCA.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "GSSC",
+      "name": "General Silos & Storage Co.",
+      "sector": "Retail trade",
+      "yahoo": "GSSC.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "GTEX",
+      "name": "G-TEX for Commercial and Industrial Investments S.A.E",
+      "sector": "Finance",
+      "yahoo": "GTEX.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "GTWL",
+      "name": "Golden Textiles & Clothes Wool",
+      "sector": "Process industries",
+      "yahoo": "GTWL.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "HAVC",
+      "name": "Hassan Allam Investments & Venture Capital S.A.E",
+      "sector": "EGX",
+      "yahoo": "HAVC.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "HBCO",
+      "name": "Heibco Npv",
+      "sector": "EGX",
+      "yahoo": "HBCO.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "HDBK",
+      "name": "Housing & Development Bank",
+      "sector": "Finance",
+      "yahoo": "HDBK.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX70",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "HDST",
+      "name": "HEDGESTONE INVESTMENT",
+      "sector": "EGX",
+      "yahoo": "HDST.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "HELI",
+      "name": "Heliopolis Housing",
+      "sector": "Consumer durables",
+      "yahoo": "HELI.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX30",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "HRHO",
+      "name": "EFG Holding S.A.E.",
+      "sector": "Finance",
+      "yahoo": "HRHO.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX30",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "IBCT",
+      "name": "International Business Corp. for Trading & Agencies",
+      "sector": "Distribution services",
+      "yahoo": "IBCT.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ICFC",
+      "name": "International Co. for Fertilizers & Chemicals",
+      "sector": "Process industries",
+      "yahoo": "ICFC.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ICID",
+      "name": "International Company for Investment & Development",
+      "sector": "Finance",
+      "yahoo": "ICID.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ICLE",
+      "name": "International Co. for Leasing SAE",
+      "sector": "Finance",
+      "yahoo": "ICLE.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ICMI",
+      "name": "International Company for Medical Industries",
+      "sector": "Distribution services",
+      "yahoo": "ICMI.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "IDRE",
+      "name": "Ismailia Development & Real Estate Co.",
+      "sector": "Finance",
+      "yahoo": "IDRE.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "IEEC",
+      "name": "Industrial & Engineering Enterprises Co.",
+      "sector": "Industrial services",
+      "yahoo": "IEEC.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "IFAP",
+      "name": "International Agricultural Products",
+      "sector": "Process industries",
+      "yahoo": "IFAP.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "INEG",
+      "name": "Integrated Engineering Group S.A.E",
+      "sector": "Producer manufacturing",
+      "yahoo": "INEG.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "INFI",
+      "name": "Ismailia National Food Industries",
+      "sector": "Consumer non-durables",
+      "yahoo": "INFI.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "IRON",
+      "name": "Egyptian Iron & Steel",
+      "sector": "Non-energy minerals",
+      "yahoo": "IRON.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX70",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ISMA",
+      "name": "Ismailia Misr Poultry",
+      "sector": "Process industries",
+      "yahoo": "ISMA.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ISMQ",
+      "name": "Iron & Steel for Mines & Quarries",
+      "sector": "Non-energy minerals",
+      "yahoo": "ISMQ.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ISPH",
+      "name": "Ibnsina Pharma",
+      "sector": "Distribution services",
+      "yahoo": "ISPH.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX30",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "JUFO",
+      "name": "Juhayna Food Industries",
+      "sector": "Consumer non-durables",
+      "yahoo": "JUFO.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX30",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "KABO",
+      "name": "El Nasr Clothing & Textiles Co.",
+      "sector": "Consumer non-durables",
+      "yahoo": "KABO.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "KORA",
+      "name": "KORRA",
+      "sector": "EGX",
+      "yahoo": "KORA.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "KRDI",
+      "name": "Al Khair River for Development Agriculture Investment and Environmental Services",
+      "sector": "Finance",
+      "yahoo": "KRDI.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "KWIN",
+      "name": "El Kahera El Watania Investment",
+      "sector": "Finance",
+      "yahoo": "KWIN.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "KZPC",
+      "name": "Kafr El Zayat Pesticides & Chemical Co.",
+      "sector": "Process industries",
+      "yahoo": "KZPC.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "LCSW",
+      "name": "Lecico Egypt SAE",
+      "sector": "Producer manufacturing",
+      "yahoo": "LCSW.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "LUTS",
+      "name": "Lotus For Agricultural Investments And Development",
+      "sector": "Finance",
+      "yahoo": "LUTS.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "MAAL",
+      "name": "Marseilla Al Masreia Al Khalegeya for Holding Investment",
+      "sector": "Finance",
+      "yahoo": "MAAL.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "MASR",
+      "name": "Madinet Masr for Housing & Development",
+      "sector": "Finance",
+      "yahoo": "MASR.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "MBEG",
+      "name": "MB for Engineering & Contracting",
+      "sector": "Distribution services",
+      "yahoo": "MBEG.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "MBSC",
+      "name": "Misr Beni Suef Cement Co. SAE",
+      "sector": "Non-energy minerals",
+      "yahoo": "MBSC.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "MCQE",
+      "name": "Misr Cement Co. (Qena)",
+      "sector": "Non-energy minerals",
+      "yahoo": "MCQE.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX30",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "MCRO",
+      "name": "Macro Group Pharmaceutical S.A.E.",
+      "sector": "Health technology",
+      "yahoo": "MCRO.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "MEGM",
+      "name": "Middle East Glass Manufacturing SAE",
+      "sector": "Process industries",
+      "yahoo": "MEGM.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "MENA",
+      "name": "Mena Touristic & Real Estate Investment",
+      "sector": "Finance",
+      "yahoo": "MENA.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "MEPA",
+      "name": "Medical Packaging Company",
+      "sector": "Process industries",
+      "yahoo": "MEPA.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "MFPC",
+      "name": "Misr Fertilizers Production Company MOPCO",
+      "sector": "Process industries",
+      "yahoo": "MFPC.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX70",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "MFSC",
+      "name": "Misr Duty Free Shops Co.",
+      "sector": "Retail trade",
+      "yahoo": "MFSC.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "MHOT",
+      "name": "Misr Hotels Co.",
+      "sector": "Consumer services",
+      "yahoo": "MHOT.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "MICH",
+      "name": "Misr Chemical Industries Ltd.",
+      "sector": "Process industries",
+      "yahoo": "MICH.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "MILS",
+      "name": "North Cairo Mills Co.",
+      "sector": "Process industries",
+      "yahoo": "MILS.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "MIPH",
+      "name": "Minapharm Pharmaceuticals",
+      "sector": "Health technology",
+      "yahoo": "MIPH.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "MISR",
+      "name": "MISR Intercontinental for Granite & Marble",
+      "sector": "Non-energy minerals",
+      "yahoo": "MISR.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "MKIT",
+      "name": "Misr Kuwait Investment & Trading Co.",
+      "sector": "Distribution services",
+      "yahoo": "MKIT.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "MMAT",
+      "name": "Marsa Marsa Alam for Tourism Development",
+      "sector": "Consumer services",
+      "yahoo": "MMAT.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "MOED",
+      "name": "Egyptian Modern Education Systems",
+      "sector": "Commercial services",
+      "yahoo": "MOED.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "MOIL",
+      "name": "Maridive & Oil Services SAE",
+      "sector": "Industrial services",
+      "yahoo": "MOIL.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "MOIN",
+      "name": "Mohandes Insurance Co.",
+      "sector": "Finance",
+      "yahoo": "MOIN.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "MOSC",
+      "name": "Misr Oils & Soap Co.",
+      "sector": "Process industries",
+      "yahoo": "MOSC.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "MPCI",
+      "name": "Memphis Pharmaceutical & Chemical Industries",
+      "sector": "Health technology",
+      "yahoo": "MPCI.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "MPCO",
+      "name": "Mansourah Poultry Co.",
+      "sector": "Process industries",
+      "yahoo": "MPCO.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "MPRC",
+      "name": "Egyptian Media Production City",
+      "sector": "Consumer services",
+      "yahoo": "MPRC.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "MTIE",
+      "name": "MM Group for Industry & International Trade",
+      "sector": "Distribution services",
+      "yahoo": "MTIE.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "NAHO",
+      "name": "Naeem Holding Co.",
+      "sector": "Finance",
+      "yahoo": "NAHO.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "NARE",
+      "name": "Reacap Financial Investments",
+      "sector": "Finance",
+      "yahoo": "NARE.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "NCCW",
+      "name": "Nasr Co. for Civil Works",
+      "sector": "Industrial services",
+      "yahoo": "NCCW.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "NDRL",
+      "name": "National Drilling Co.",
+      "sector": "Industrial services",
+      "yahoo": "NDRL.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "NEDA",
+      "name": "Northern Upper Egypt Development & Agricultural Production",
+      "sector": "Process industries",
+      "yahoo": "NEDA.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "NHPS",
+      "name": "National Housing for Professional Syndicates",
+      "sector": "Finance",
+      "yahoo": "NHPS.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "NINH",
+      "name": "Nozha International Hospital",
+      "sector": "Health services",
+      "yahoo": "NINH.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "NIPH",
+      "name": "El-Nile Co. for Pharmaceuticals & Chemical Industries",
+      "sector": "Health technology",
+      "yahoo": "NIPH.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "OBRI",
+      "name": "El Obour Real Estate Investment",
+      "sector": "Finance",
+      "yahoo": "OBRI.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "OCDI",
+      "name": "Six of October Development & Investment (SODIC)",
+      "sector": "Finance",
+      "yahoo": "OCDI.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX70",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "OCPH",
+      "name": "October Pharma Co.",
+      "sector": "Health technology",
+      "yahoo": "OCPH.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ODIN",
+      "name": "ODIN Investments",
+      "sector": "Finance",
+      "yahoo": "ODIN.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "OFH",
+      "name": "Orascom Financial Holding S.A.E",
+      "sector": "Finance",
+      "yahoo": "OFH.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "OIH",
+      "name": "Orascom Investment Holding SAE",
+      "sector": "Communications",
+      "yahoo": "OIH.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX30",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "OLFI",
+      "name": "Obour Land for Food Industries",
+      "sector": "Consumer non-durables",
+      "yahoo": "OLFI.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ORAS",
+      "name": "Orascom Construction Plc",
+      "sector": "Industrial services",
+      "yahoo": "ORAS.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX30",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ORHD",
+      "name": "Orascom Development Egypt (S.A.E)",
+      "sector": "Consumer durables",
+      "yahoo": "ORHD.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX30",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ORWE",
+      "name": "Oriental Weavers Carpet",
+      "sector": "Consumer durables",
+      "yahoo": "ORWE.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX30",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "PHAR",
+      "name": "Egyptian International Pharmaceutical Industries Co.",
+      "sector": "Health technology",
+      "yahoo": "PHAR.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "PHDC",
+      "name": "Palm Hills Development Co.",
+      "sector": "Finance",
+      "yahoo": "PHDC.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX30",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "PHGC",
+      "name": "Premium Healthcare Group",
+      "sector": "Health services",
+      "yahoo": "PHGC.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "PHTV",
+      "name": "Pyramisa Hotels",
+      "sector": "Consumer services",
+      "yahoo": "PHTV.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "POCO",
+      "name": "Port Said Container And Cargo Handling",
+      "sector": "Transportation",
+      "yahoo": "POCO.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "POUL",
+      "name": "Cairo Poultry Co.",
+      "sector": "Process industries",
+      "yahoo": "POUL.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX70",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "PRCL",
+      "name": "General Co. for Ceramic & Porcelain Products",
+      "sector": "Non-energy minerals",
+      "yahoo": "PRCL.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "PRDC",
+      "name": "Pioneers Properties for Urban Development",
+      "sector": "Finance",
+      "yahoo": "PRDC.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "PRMH",
+      "name": "Prime Holding",
+      "sector": "Finance",
+      "yahoo": "PRMH.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "QNBE",
+      "name": "Qatar National Bank",
+      "sector": "Finance",
+      "yahoo": "QNBE.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX70",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "RACC",
+      "name": "Raya Contact Center",
+      "sector": "Commercial services",
+      "yahoo": "RACC.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "RAKT",
+      "name": "Rakta Paper Manufacturing",
+      "sector": "Process industries",
+      "yahoo": "RAKT.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "RAYA",
+      "name": "Raya Holding for Financial Investments SAE",
+      "sector": "Technology services",
+      "yahoo": "RAYA.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX30",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "RKAZ",
+      "name": "REKAZ Financial Holding",
+      "sector": "Process industries",
+      "yahoo": "RKAZ.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "RMDA",
+      "name": "Tenth of Ramadan Pharmaceutical Industries & Diagnostic-Rameda",
+      "sector": "Health technology",
+      "yahoo": "RMDA.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX30",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ROTO",
+      "name": "Rowad Tourism (Al Rowad) Co",
+      "sector": "Finance",
+      "yahoo": "ROTO.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "RREI",
+      "name": "Arab Real Estate Investment Co.",
+      "sector": "Consumer durables",
+      "yahoo": "RREI.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "RTVC",
+      "name": "Remco for Touristic Villages Construction",
+      "sector": "Industrial services",
+      "yahoo": "RTVC.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "RUBX",
+      "name": "Rubex International for Plastic & Acrylic Manufacturing",
+      "sector": "Consumer durables",
+      "yahoo": "RUBX.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "SAIB",
+      "name": "Societe Arabe Internationale de Banque",
+      "sector": "Finance",
+      "yahoo": "SAIB.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "SAUD",
+      "name": "Al Baraka Bank Egypt",
+      "sector": "Finance",
+      "yahoo": "SAUD.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX70",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "SCEM",
+      "name": "Sinai Cement Co.",
+      "sector": "Non-energy minerals",
+      "yahoo": "SCEM.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "SCFM",
+      "name": "South Cairo & Giza Mills & Bakeries",
+      "sector": "Process industries",
+      "yahoo": "SCFM.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "SCTS",
+      "name": "Sues Canal Co. for Technology Settling",
+      "sector": "Commercial services",
+      "yahoo": "SCTS.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "SDTI",
+      "name": "Sharm Dreams Co. for Tourism Investment",
+      "sector": "Consumer services",
+      "yahoo": "SDTI.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "SEIG",
+      "name": "Saudi Egyptian Investment & Finance Co. SAE",
+      "sector": "Finance",
+      "yahoo": "SEIG.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "SIPC",
+      "name": "Sabaa International Company for Pharmaceutial and Chemical Industry",
+      "sector": "Health technology",
+      "yahoo": "SIPC.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "SKPC",
+      "name": "Sidi Kerir Petrochemicals",
+      "sector": "Process industries",
+      "yahoo": "SKPC.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX70",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "SMFR",
+      "name": "Samad Misr-EGYFERT",
+      "sector": "Distribution services",
+      "yahoo": "SMFR.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "SNFC",
+      "name": "Sharkia National Food",
+      "sector": "Process industries",
+      "yahoo": "SNFC.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "SPHT",
+      "name": "El Shams Pyramids Co. for Hotels & Touristic Projects SAE",
+      "sector": "Consumer services",
+      "yahoo": "SPHT.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "SPIN",
+      "name": "Alexandria Spinning & Weaving",
+      "sector": "Process industries",
+      "yahoo": "SPIN.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "SPMD",
+      "name": "Speed Medical SAE",
+      "sector": "Health services",
+      "yahoo": "SPMD.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "SUGR",
+      "name": "Delta Sugar",
+      "sector": "Process industries",
+      "yahoo": "SUGR.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX70",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "SVCE",
+      "name": "South Valley Cement Co.",
+      "sector": "Non-energy minerals",
+      "yahoo": "SVCE.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "SWDY",
+      "name": "El Sewedy Electric Company",
+      "sector": "Producer manufacturing",
+      "yahoo": "SWDY.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX30",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "TALM",
+      "name": "Taaleem Management Services S.A.E",
+      "sector": "Consumer services",
+      "yahoo": "TALM.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "TANM",
+      "name": "Tanmiya for Real Estate Investment",
+      "sector": "Finance",
+      "yahoo": "TANM.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "TAQA",
+      "name": "TAQA Arabia",
+      "sector": "Utilities",
+      "yahoo": "TAQA.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "TMGH",
+      "name": "Talaat Moustafa Group Holding",
+      "sector": "Finance",
+      "yahoo": "TMGH.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX30",
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "TRTO",
+      "name": "TransOceans Tours",
+      "sector": "Commercial services",
+      "yahoo": "TRTO.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "TWSA",
+      "name": "TAWASOA FOR FACTORING",
+      "sector": "EGX",
+      "yahoo": "TWSA.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "UBEE",
+      "name": "United Bank SAE",
+      "sector": "Finance",
+      "yahoo": "UBEE.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "UEFM",
+      "name": "Upper Egypt Flour Mills Co.",
+      "sector": "Process industries",
+      "yahoo": "UEFM.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "UEGC",
+      "name": "El-Saeed Contracting & Real Estate Investment Co. SCCD",
+      "sector": "Industrial services",
+      "yahoo": "UEGC.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "UNIP",
+      "name": "Universal Co. for Paper & Packaging Materials-Unipack",
+      "sector": "Process industries",
+      "yahoo": "UNIP.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "UNIT",
+      "name": "United Housing Construction SA",
+      "sector": "Finance",
+      "yahoo": "UNIT.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "UPMS",
+      "name": "Union Pharmacist Company For Medical Services And Investment",
+      "sector": "Health services",
+      "yahoo": "UPMS.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "UTOP",
+      "name": "Utopia Real Estate Investment & Tourism SAE",
+      "sector": "Finance",
+      "yahoo": "UTOP.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "VALU",
+      "name": "U Consumer Finance S.A.E",
+      "sector": "Finance",
+      "yahoo": "VALU.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "VERT",
+      "name": "Vertika for Industry & Trade",
+      "sector": "Technology services",
+      "yahoo": "VERT.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "WCDF",
+      "name": "Middle & West Delta Flour Mills Co.",
+      "sector": "Process industries",
+      "yahoo": "WCDF.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "WKOL",
+      "name": "Wadi Kom Ombo Land Reclamation",
+      "sector": "Industrial services",
+      "yahoo": "WKOL.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ZEOT",
+      "name": "Extracted Oils & Derivatives Co.",
+      "sector": "Process industries",
+      "yahoo": "ZEOT.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "ZMID",
+      "name": "Zahraa Maadi Investment & Development",
+      "sector": "Finance",
+      "yahoo": "ZMID.CA",
+      "market": "EGX",
+      "indices": [
+        "EGX100"
+      ]
+    },
+    {
+      "symbol": "GOLD",
+      "name": "Gold",
+      "sector": "Metals",
+      "yahoo": "GC=F",
+      "market": "METALS",
+      "indices": [
+        "METALS"
+      ]
+    },
+    {
+      "symbol": "SILVER",
+      "name": "Silver",
+      "sector": "Metals",
+      "yahoo": "SI=F",
+      "market": "METALS",
+      "indices": [
+        "METALS"
+      ]
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple",
+      "sector": "US Tech",
+      "yahoo": "AAPL",
+      "market": "US",
+      "indices": [
+        "US"
+      ]
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "sector": "US Tech",
+      "yahoo": "MSFT",
+      "market": "US",
+      "indices": [
+        "US"
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "sector": "US Tech",
+      "yahoo": "NVDA",
+      "market": "US",
+      "indices": [
+        "US"
+      ]
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "sector": "US Auto",
+      "yahoo": "TSLA",
+      "market": "US",
+      "indices": [
+        "US"
+      ]
+    },
+    {
+      "symbol": "SPY",
+      "name": "S&P 500 ETF",
+      "sector": "US Index",
+      "yahoo": "SPY",
+      "market": "US",
+      "indices": [
+        "US"
+      ]
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "sector": "US Tech",
+      "yahoo": "AMZN",
+      "market": "US",
+      "indices": [
+        "US"
+      ]
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet",
+      "sector": "US Tech",
+      "yahoo": "GOOGL",
+      "market": "US",
+      "indices": [
+        "US"
+      ]
+    },
+    {
+      "symbol": "META",
+      "name": "Meta",
+      "sector": "US Tech",
+      "yahoo": "META",
+      "market": "US",
+      "indices": [
+        "US"
+      ]
+    }
+  ],
+  "refPrices": {
+    "COMI": 141.0,
+    "SWDY": 105.0,
+    "TMGH": 98.8,
+    "ETEL": 111.0,
+    "EGAL": 298.0,
+    "QNBE": 56.0,
+    "EAST": 36.4,
+    "MFPC": 37.5,
+    "ABUK": 74.5,
+    "ALCN": 31.0,
+    "HDBK": 84.3,
+    "ADIB": 52.5,
+    "ORAS": 714.0,
+    "EFIH": 23.5,
+    "FWRY": 19.3,
+    "EMFD": 12.0,
+    "SCTS": 610.0,
+    "ORHD": 41.0,
+    "PHDC": 15.0,
+    "EFID": 28.5,
+    "OCDI": 30.0,
+    "JUFO": 33.0,
+    "HRHO": 27.0,
+    "CANA": 38.5,
+    "GBCO": 31.0,
+    "BIOC": 330.0,
+    "BTFH": 3.15,
+    "HELI": 8.2,
+    "RAYA": 7.5,
+    "AMOC": 9.2,
+    "ORWE": 25.5,
+    "MNHD": 8.0,
+    "SKPC": 16.4,
+    "EGAS": 58.5,
+    "GOLD": 3320.0,
+    "SILVER": 37.5,
+    "AAPL": 220.0,
+    "MSFT": 430.0,
+    "NVDA": 125.0,
+    "TSLA": 250.0
+  },
+  "count": 254
+}
